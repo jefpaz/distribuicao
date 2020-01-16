@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>UI Kit Itau</title>
+    <link>http://sketchlibrary.sketchapp.com/libraries/SketchLibraryAppcast.xml</link>
+    <description>Ui Kit teste do itaú</description>
+    <language>en</language>
+      <item>
+        <title>Apple iOS UI</title>
+        <sparkle:minimumSystemVersion>58</sparkle:minimumSystemVersion>
+        <sparkle:maximumSystemVersion>58</sparkle:maximumSystemVersion>
+        <pubDate>Fri, 4 Oct 2019 15:00:00 +0000</pubDate>
+        <enclosure url="https://developer.apple.com/design/downloads/Apple-iOS-13-Sketch-Library.dmg" sparkle:version="33" length="53165527" type="application/octet-stream" />
+      </item>
+  </channel>
+</rss>
