@@ -6,7 +6,7 @@
     <description>Ui Kit teste do itaú</description>
     <language>en</language>
       <item>
-        <title>Apple iOS UI</title>
+        <title>UI Kit Itau</title>
         <sparkle:minimumSystemVersion>58</sparkle:minimumSystemVersion>
         <sparkle:maximumSystemVersion>58</sparkle:maximumSystemVersion>
         <pubDate>Fri, 4 Oct 2019 15:00:00 +0000</pubDate>
