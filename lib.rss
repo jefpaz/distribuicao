@@ -10,7 +10,7 @@
         <sparkle:minimumSystemVersion>58</sparkle:minimumSystemVersion>
         <sparkle:maximumSystemVersion>58</sparkle:maximumSystemVersion>
         <pubDate>Fri, 4 Oct 2019 15:00:00 +0000</pubDate>
-        <enclosure url="https://developer.apple.com/design/downloads/Apple-iOS-13-Sketch-Library.dmg" sparkle:version="33" length="53165527" type="application/octet-stream" />
+        <enclosure url="http://gitmobile.itau/design/ui-kits/raw/master/UI_Kit_Mobile.sketch" sparkle:version="33" length="53165527" type="application/octet-stream" />
       </item>
   </channel>
 </rss>
